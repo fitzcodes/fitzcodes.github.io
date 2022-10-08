@@ -1,6 +1,6 @@
 # Thomas Fitzgerald
 
-Yo welcome to my world. Stick around long enough and you might learn something about me. 
+Hi, welcome to my world. Stick around long enough and you might learn something about me. 
 
 ### About
 JavaScript Developer. My jam is creating beautiful and responsive websites with HTML, CSS, JavaScript and REACT. I think contributing to Open Source is incredibly important and essential to growth as a developer. 
@@ -18,7 +18,7 @@ Here on GitHub at [fitzcodes](https://fitzcodes.github.io/)!
 
 
 
-Testing SSH
+
 
 *“Cowards die many times before their deaths; The valiant never taste of death but once.”*
 
