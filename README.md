@@ -3,7 +3,7 @@
 Hi, welcome to my world. 
 
 ### About
-JavaScript Developer. My jam is creating beautiful and responsive websites with HTML, CSS, JavaScript and REACT. I think contributing to Open Source is incredibly important and essential to growth as a developer. 
+JavaScript Developer. My jam is creating beautiful and responsive websites with HTML, CSS, JavaScript and REACT. I think contributing to Open Source is incredibly important and essential to growth as a developer (always looking for suggestions as well). 
 
 ### Site Features
 + Dark mode. 
