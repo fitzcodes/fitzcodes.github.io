@@ -6,7 +6,7 @@ Hi, welcome to my world.
 JavaScript Developer. My jam is creating beautiful and responsive websites with HTML, CSS, JavaScript and REACT. I think contributing to Open Source is incredibly important and essential to growth as a developer (always looking for suggestions as well). 
 
 ### Site Features
-+ Dark mode. 
++ Dark mode(October themed). 
 + Contact form in a modal driven by EmailJS
 + Sliding diagonal background (under content)
 + Left Column - Four most recent articles published to [Dev.to](https://dev.to/fitzcodes), pulled in by utilizing their API. 
