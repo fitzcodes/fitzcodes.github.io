@@ -8,7 +8,7 @@ JavaScript Developer. My jam is creating beautiful and responsive websites with 
 ### Site Features
 + Dark mode (October theme)!
 + Contact form in a modal driven by EmailJS
-+ Sliding diagonal background. Did it get your attention? Don't judge me. 
++ Sliding diagonal background. Did it get your attention? Don't judge me  -.-
 + Left Column - Four most recent articles published to [Dev.to](https://dev.to/fitzcodes), pulled in by utilizing their API. (optimized use of api coming soon)
 + Right Column - Link to my [CodePen Work](https://codepen.io/fitzwebdev).
 + Right Column - Link to my [GitHub Repositories](https://github.com/fitzcodes?tab=repositories).
